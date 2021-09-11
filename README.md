@@ -16,5 +16,5 @@ Link repo: https://github.com/gacondilac/CS114.M11
 ```
 Họ tên: Nguyễn Khắc Thái
 MSSV: 20521888
-Link repo: https://github.com/thaivd98/CS519.M11/
+Link repo: 
 ```
