@@ -1,7 +1,7 @@
 # Mô tả dữ liệu:
 
 #### Bộ dữ liệu gốc gồm: 600 ảnh bìa sách được chụp lại và 400 ảnh bìa lấy từ Internet
-#### Bộ dữ liệu cho train các mô hình củ VietOCR gồm: 7000 dòng text đã gán nhãn được cắt ra từ các bìa sách đã thu thập. Trong đó:
+#### Bộ dữ liệu cho train các mô hình của VietOCR gồm: 7000 dòng text đã gán nhãn được cắt ra từ các ảnh bìa sách đã thu thập. Trong đó:
 + Training set gồm: 5600 dòng
 + Test set gồm: 1400 dòng
 #### Thao tác xử lý dữ liệu: 
