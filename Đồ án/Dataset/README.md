@@ -12,4 +12,4 @@
 + B2: Gán nhãn cho mỗi ảnh để tạo thành dataset phù hợp cho việc train các model của Vietocr
 
 
-3. Bộ dữ liệu cho test cả mô hình về lấy các thông tin trên sách (folder BookInfo) (Tên tác giả, tên sách, nhà xuất bản) gồm file excel (nhóm gán nhãn) và 1 file csv (kết quả mô hình dự đoán) chứa thông tin của 300 cuốn sách
+3. Bộ dữ liệu cho test cả mô hình về lấy các thông tin trên sách (folder BookInfo) (Tên tác giả, tên sách, nhà xuất bản) gồm file excel (nhóm gán nhãn) và 1 file csv (kết quả mô hình dự đoán) chứa thông tin của gần 300 ảnh bìa sách
