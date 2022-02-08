@@ -1,3 +1,5 @@
+Link Dataset: [Here](https://drive.google.com/drive/folders/1NFTs-d0MwZFTd-MsyZyx_spI3d_3s6OM?usp=sharing)
+
 # Mô tả dữ liệu:
 
 #### Bộ dữ liệu gốc gồm: 600 ảnh bìa sách được chụp lại và 400 ảnh bìa lấy từ Internet
